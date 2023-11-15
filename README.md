@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Oleh SHELEHEDA
+- 🏒I live in Helsinki, Finland at the moment. 
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning WEB-development coding.
+- 📫 If you want to reach me, please email me to olehsheleheda@gmail.com
